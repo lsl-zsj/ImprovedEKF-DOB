@@ -1,4 +1,4 @@
-function dob_prepropossing_rubber_band_main()
+function rubber_band_main()
 
 clear all
 clc

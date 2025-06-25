@@ -1,4 +1,4 @@
-function dob_prepropossing_hand_push_main()
+function hand_push_main()
 
 clear all
 clc
